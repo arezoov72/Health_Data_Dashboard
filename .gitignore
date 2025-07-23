@@ -1,0 +1,9 @@
+# .gitignore
+__pycache__/
+*.pyc
+.env
+.vscode/
+*.DS_Store
+*.egg-info/
+*.log
+data/*.csv
